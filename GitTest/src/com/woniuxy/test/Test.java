@@ -16,5 +16,7 @@ public class Test {
 	public void fun2(){
 		System.out.println("function()2");
 	}
-	
+	public void fun3(){
+		System.out.println("这是李四编写的程序");
+	}
 }
