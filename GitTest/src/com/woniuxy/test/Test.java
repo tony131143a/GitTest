@@ -13,5 +13,8 @@ public class Test {
 	public void fun1(){
 		System.out.println("function()1");
 	}
+	public void fun2(){
+		System.out.println("function()2");
+	}
 	
 }
